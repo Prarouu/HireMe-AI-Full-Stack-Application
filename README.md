@@ -360,9 +360,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 📧 Contact
 
-**Praroop** — [@yourhandle](https://twitter.com/yourhandle)
+**Jatin** — [@jaitn-thakur78](https://www.linkedin.com/in/jatin-thakur78/)
 
-Project Link: [https://github.com/yourusername/hirepilot-ai](https://github.com/yourusername/hirepilot-ai)
+Project Link: [https://github.com//hirepilot-ai](https://github.com/Prarouu/HireMe-AI-Full-Stack-Application)
 
 ---
 
